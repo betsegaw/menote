@@ -1,0 +1,2 @@
+# menote
+Plain text + Versioning = ❤
