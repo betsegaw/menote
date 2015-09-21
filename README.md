@@ -3,7 +3,7 @@ Plain text + Versioning = ❤
 
 ![](Sketch.png)
 
-# How to run
+# How to run (for development)
 
 ## Option 1
 
