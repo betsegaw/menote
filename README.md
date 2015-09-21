@@ -1,5 +1,7 @@
-# menote
+﻿# menote
 Plain text + Versioning = ❤
+
+![](Sketch.png)
 
 # How to run
 
