@@ -1,1 +1,1 @@
-.\bin\electron\electron.exe menote
+.\menote\node_modules\electron-prebuilt\dist\electron.exe menote
