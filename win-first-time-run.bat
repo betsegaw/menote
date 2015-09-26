@@ -1,2 +1,2 @@
 cd menote
-npm install electron-prebuilt --save-dev
+npm install
